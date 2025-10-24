@@ -178,3 +178,8 @@ Database looks like : ![Alt Text](https://github.com/username/repo/assets/image.
 ![Database Preview](https://github.com/Ritika6patel/Hospital-database-creation-and-migration/blob/master/Image.jpg)
 Example: ![Database Preview](https://github.com/Ritika6patel/Hospital-database-creation-and-migration/blob/master/Images/Image-8.png)
 
+## Images/screenshot (Excel Image of file before migration)
+Database looks like :![Alt Text](https://github.com/username/repo/assets/image.jpg)
+Example: ![Database Preview](https://github.com/Ritika6patel/Hospital-database-creation-and-migration/blob/master/Excel-Image.png)
+
+
