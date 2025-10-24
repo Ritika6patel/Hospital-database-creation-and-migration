@@ -37,11 +37,11 @@ Implemented foreign key relationships between entities:
 
 **4. Appointment Regulation**
 
-- Added constraints and triggers to prevent:
+ Added constraints and triggers to prevent:
 
-- Double-booking of doctors.
+   - Double-booking of doctors.
 
-- Scheduling appointments in the past.
+   - Scheduling appointments in the past.
 
 **5. Access Control & Security**
 
