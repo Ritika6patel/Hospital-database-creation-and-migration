@@ -271,7 +271,7 @@ By moving from Excel spreadsheets to a structured, relational database, the hosp
 
 What began as a technical exercise in SQL design evolved into a comprehensive digital transformation blueprint, bridging the gap between technology and operational strategy.
 
-It reinforced one essential truth — data is not just about storage; it’s about enabling smarter, faster, and
+It reinforced one essential truth — data is not just about storage; it’s about enabling smarter, faster, and safer healthcare decisions.
 
 ## Images/screenshot 
 Database looks like : ![Alt Text](https://github.com/username/repo/assets/image.jpg)
