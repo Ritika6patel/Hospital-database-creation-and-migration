@@ -3,7 +3,7 @@
 
 In today’s digital era, hospitals generate vast amounts of data every day — from patient records and lab results to doctor schedules and billing details. Yet, many mid-sized healthcare institutions still rely on Excel for managing critical operations, leading to inefficiency, errors, and limited scalability.
 
-To address this, I led the **Hospital Database Migration & Automation Project**, transforming a fragmented Excel-based system into a robust, relational SQL database. The goal was to build a scalable data infrastructure that ensures data integrity, secure access, and cross-departmental insights — bridging the gap between technology, efficiency, and healthcare operations.
+To address this, I developed the **Hospital Database Migration & Automation Project**, which transformed a fragmented Excel-based system into a robust, relational SQL database. The goal was to build a scalable data infrastructure that ensures data integrity, secure access, and cross-departmental insights — bridging the gap between technology, efficiency, and healthcare operations.
 
 ## 🔍 Problem Context
 The hospital had been maintaining all its records manually in Excel sheets — including patients, doctors, appointments, lab reports, prescriptions, and billing data. As patient inflow and hospital operations grew, this traditional method began to show critical inefficiencies:
